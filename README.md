@@ -11,7 +11,7 @@ The program does the following:
     3. In all other cases, the solution calculated using the formula "x=-b/a" will be displayed on the screen. 
 Developed in the Microsoft Visual Studio integrated environment.
 
-SolveLinealEquation. ИС Visual Studio. Занятия по C++. Простой Ввод/Вывод. Алгоритмы. Платформа Windows. Консольное приложение.
+SolveSquareEquation. ИС Visual Studio. Занятия по C++. Простой Ввод/Вывод. Алгоритмы. Платформа Windows. Консольное приложение.
 
 Консольное приложение написанное на языке программирования C++. 
 Программа делает следующее:
