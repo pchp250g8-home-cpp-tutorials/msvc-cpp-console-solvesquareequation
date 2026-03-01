@@ -2,13 +2,7 @@
 
 A console application in the C++ programming language. 
 The program does the following:
-1. Asks you to enter the coefficients of the linear equation that needs to be solved.
-2. Displays the equation being solved in linear form on the screen.
-3. Checks if the entered coefficients are equal to 0.
-4. The following cases are possible:
-    1. All coefficients are equal to zero. The phrase "Solution - any number" will be displayed on the screen.
-    2. The coefficient "a" is zero, but "b" is not. In this case, the message "The equation has no solutions" will be displayed.
-    3. In all other cases, the solution calculated using the formula "x=-b/a" will be displayed on the screen. 
+
 Developed in the Microsoft Visual Studio integrated environment.
 
 SolveSquareEquation. ИС Visual Studio. Занятия по C++. Простой Ввод/Вывод. Алгоритмы. Платформа Windows. Консольное приложение.
@@ -27,6 +21,6 @@ SolveSquareEquation. ИС Visual Studio. Занятия по C++. Простой
           2. Вычисляется знак выражения, полученного ранее. (можент быть: -1, 0, 1). К значению прибавляется 1.
           3. Это и есть число корней квадратного уравнения.
           4. Если число корней квадратного уравнения больше нуля (может быть 0, 1 или 2), то на экран выводятся решения по фомулам
-             "x1=-b-sqrt(d)/(2*a)" и "x2=-b+sqrt(d)/(2*a)". В противном случае выводится фраза ""  
+             "x1=-b-sqrt(d)/(2*a)" и "x2=-b+sqrt(d)/(2*a)". В противном случае выводится фраза "уравнение не имеет корней".  
 Разработано в интегрированной среде Microsoft Visual Studio.
 
